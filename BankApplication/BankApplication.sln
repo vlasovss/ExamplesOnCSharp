@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApplication", "BankApplication\BankApplication.csproj", "{E1DFF597-3AD3-47F6-9FE5-C30A1B7415DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankLibrary", "BankLibrary\BankLibrary.csproj", "{F7140707-A389-45CB-93B8-F15A404CA394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1DFF597-3AD3-47F6-9FE5-C30A1B7415DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1DFF597-3AD3-47F6-9FE5-C30A1B7415DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1DFF597-3AD3-47F6-9FE5-C30A1B7415DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1DFF597-3AD3-47F6-9FE5-C30A1B7415DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7140707-A389-45CB-93B8-F15A404CA394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7140707-A389-45CB-93B8-F15A404CA394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7140707-A389-45CB-93B8-F15A404CA394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7140707-A389-45CB-93B8-F15A404CA394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83BC9158-71EA-4590-8355-EB1DCE1010AC}
+	EndGlobalSection
+EndGlobal
